@@ -1,0 +1,17 @@
+\q
+\h
+.tables
+\d
+\q
+\d
+\q
+\d
+/d
+\q
+/d
+\d
+q/
+q\
+\q
+\d
+\s categories
